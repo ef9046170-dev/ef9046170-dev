@@ -1,6 +1,3 @@
-## Hi Iman Fatima 👋
-
-
 # 👋 Hi, I'm Iman Fatima
 
 ### 🤖 AI & Machine Learning Enthusiast | Python Developer
